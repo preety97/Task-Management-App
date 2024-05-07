@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tasker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_admin">Tasker</string>
+
+
+    <!--<string name="employee_prompt">Choose a Employee</string>-->
+
+    <!--<string-array name="employee_arrays">-->
+    <!--<item>anita@o7services.com</item>-->
+    <!--<item>daman@o7services.com</item>-->
+    <!--<item>gaurav@o7services.com</item>-->
+    <!--<item>gverma@o7services.com</item>-->
+    <!--<item>hardeep@o7services.com</item>-->
+    <!--<item>harshdeep@o7services.com</item>-->
+    <!--<item>loveleen@o7services.com</item>-->
+    <!--<item>manpreet@o7services.com</item>-->
+    <!--<item>navneesh@o7services.com</item>-->
+    <!--<item>navneet@o7services.com</item>-->
+    <!--<item>neha@o7services.com</item>-->
+    <!--<item>parminder@o7services.com</item>-->
+    <!--<item>prativa@o7services.com</item>-->
+    <!--<item>vipan@o7services.com</item>-->
+
+    <!--</string-array>-->
+
+    <string name="employee_prompt">Choose a country</string>
+
+    <string-array name="employee_arrays">
+        <item>anita@o7services.com</item>
+        <item>daman@o7services.com</item>
+        <item>gaurav@o7services.com</item>
+        <item>gverma@o7services.com</item>
+        <item>hardeep@o7services.com</item>
+        <item>harshdeep@o7services.com</item>
+        <item>loveleen@o7services.com</item>
+        <item>manpreet@o7services.com</item>
+        <item>navneesh@o7services.com</item>
+        <item>navneet@o7services.com</item>
+        <item>neha@o7services.com</item>
+        <item>parminder@o7services.com</item>
+        <item>prativa@o7services.com</item>
+        <item>vipan@o7services.com</item>
+    </string-array>
+
+</resources>
